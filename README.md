@@ -1,4 +1,5 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=deptno&show_icons=true&count_private=true&theme=graywhite&hide_title=true&include_all_commits=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deptno&langs_count=10&&layout=compact&hide_title=true)
 
 <!--
 **deptno/deptno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
